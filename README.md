@@ -1,0 +1,4 @@
+- 👋 olá, meu nome @LUCASRAFAEL2905
+-  :+1:meu email de contato é lucas.rafael.nunes@escola.pr.gov.br
+- 👀 eu estou interessado em programar novas linguagens. ...
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e scratch
